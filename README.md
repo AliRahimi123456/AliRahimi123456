@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate full Stack Developer from New York</h3>
 
-- 🔭 I’m currently working on **chatbot slice game**
+- 🔭 I’m currently working on **chatbot, slice game**
 
 - 🌱 I’m currently learning **coding with Triple tens, Codecademy & Freedcamp**
 
